@@ -1,0 +1,9 @@
+selenium==4.14.0
+user-agent==0.1.11
+threading
+time
+random
+secrets
+string
+os
+customtkinter
